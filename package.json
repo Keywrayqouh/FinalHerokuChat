@@ -1,0 +1,34 @@
+{
+  "name": "hiruko-mysample",
+  "version": "1.0.0",
+  "description": "mychat",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "package.json": "^2.0.1",
+    "socket.io": "^1.7.4",
+    "start":"node index.js"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keywrayqouh/hiruko-mySample.git"
+  },
+  "keywords": [
+    "heroku",
+    "deploy",
+    "sample"
+  ],
+  "author": "Keywray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keywrayqouh/hiruko-mySample/issues"
+  },
+  "homepage": "https://github.com/Keywrayqouh/hiruko-mySample#readme",
+  "engines": {
+    "node": "10.16"
+  }
+}
